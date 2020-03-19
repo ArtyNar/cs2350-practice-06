@@ -1,10 +1,7 @@
 /* @import url('~normalize.css/normalize.css'); */
 @import url('../../node_modules/bootstrap/dist/css/bootstrap.css');
-* {
+/* * {
   box-sizing: border-box;
-}
+} */
+
 /* TODO */
-.container
-{
-  background-color: aqua;
-}
