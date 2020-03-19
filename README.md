@@ -6,6 +6,8 @@ After you clone or download this repository from GitHub, run the following to in
 
 ```bash
 npm install
+bootstrap
+jquery, popper.js
 ```
 
 Run the following to compile and deploy your project from `src` to `dist`:
