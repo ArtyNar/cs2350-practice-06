@@ -10,7 +10,8 @@ import 'bootstrap'
 document.getElementById("myForm")
 
 let f = document.getElementById("myForm")
-f.onsubmit = function(){
+f.onsubmit = function displayMessage()
+{
     let n = document.getElementById("name").value
-    alert("Welcome "+ n)
+    alert("Welcome "+ n+"!")
 }
